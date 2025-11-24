@@ -16,6 +16,8 @@ Topics include:
 - AI:
   - What effects will AI have on society?
 
+---
+
 ### Why a short, curated list rather than a feed?
 
 Short, hand-crafted lists of useful resources will hopefully provide an efficient way for you to come across some interesting ideas, with far less online noise getting in your way.
