@@ -20,7 +20,10 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
+  Piano:
+    - Learn Piano: "learnpiano"
+    - How Music Works: "howmusicworks"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
