@@ -18,9 +18,9 @@ Topics include:
 
 ### Why a short, curated list rather than a feed?
 
-Hopefully the fact that this website contains a short, curated list of useful resources will mean that you can be linked in quickly with relevant, useful information quickly.
-The hope is to help you to identify useful information above the online noise.
+Short, hand-crafted lists of useful resources will hopefully provide an efficient way for you to come across some interesting ideas, with far less online noise getting in your way.
 
-Sure, a short, curated list won't include the people's very latest thoughts like a social media feed would.
-But that may actually be [a feature, not a bug](https://en.wiktionary.org/wiki/it%27s_not_a_bug,_it%27s_a_feature).
-In a world of too much information, places that contain less information and fewer ideas will hopefully help save people time, reduce wasted mental efforted, and help people to communicate their ideas more effectively across society.
+Sure, a short, curated list won't include up-to-date thoughts and current events in the way a social media feed would.
+But I'm hoping that's actually a feature, not a bug.
+
+The goal is to help you find a few golden nuggets of potentially useful or insightful ideas.
