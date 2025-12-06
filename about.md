@@ -8,7 +8,7 @@ This site contains a curated list of online resources that I've found useful ove
 
 Topics include:
 
-- How to learn piano (because [piano rocks](https://www.youtube.com/watch?v=c8iYkkWdDZw)),
+- How to learn piano (because [piano rocks](https://youtu.be/c8iYkkWdDZw?t=199)),
 - Understanding core human values. This includes attempts to understand:
   - What are our core human values?
   - How communication mediums affect society's values,
