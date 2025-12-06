@@ -24,10 +24,9 @@ navbar-links:
   Piano:
     - Learn Piano: "learnpiano"
     - How Music Works: "howmusicworks"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  AI:
+    - AI Impact on Society: "ai_impact_on_society"
+  Author's home: "https://experts.swinburne.edu.au/2277-stephen-petrie"
 
 ################
 # --- Logo --- #
