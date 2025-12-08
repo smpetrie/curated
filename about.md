@@ -26,6 +26,6 @@ But why did I create my own website rather than using social media? A few reason
 
 - No ads.
 - Not up-to-date: This one sounds like a bug, but some people might find it to be more of a feature --- i.e. hopefully there is less algorithmic noise, less recency bias, and more focus on ideas that persist through time.
-- It's been fun to make. If you want to make your own website like this, it's pretty straightforward --- I made it using [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) (see the "3 simple steps").
+- It's been fun to make. If you want to make your own website like this, it's pretty straightforward --- I made it using [Beautiful Jekyll's 3 easy steps](https://github.com/daattali/beautiful-jekyll?tab=readme-ov-file#the-easy-way-recommended).
 
 Struthless was also influential in my decision to create the website, particularly his thought-provoking and inspirational video on [creating things](https://www.youtube.com/watch?v=2n8W6CBxc64).
