@@ -28,10 +28,25 @@ Some of the key drawbacks of social media:
   - This was an unintended effect of the decision to use advertising revenue to monetise Social Media --- i.e. polarising viewpoints get more clicks, so Social Media platforms proliferate polarising viewpoints ahead of moderate viewpoints.
 - bla...
 
-The above issues have been known about for some time.
+---
 
-Social Media companies have repeatedly chosen not to fix these issues.
+## Technical fixes to Social Media's drawbacks
+
+The above issues have been known about for some time, and it has always been technically possible to fix these issues.
+
+However, Social Media companies have repeatedly chosen not to fix these issues.
 This may be because they are incentivised not to fix them, since the Attention Economy ensures that the companies will receive more money if users are more enraged and spend more time on their platforms.
+
+---
+
+## Mixed Bag
+
+Some effects of Social Media are a real mixed bag, with both positive and negative elements:
+
+- Connection:
+  - Increases online connection,
+  - Can decrease real-world connection.
+- bla...
 
 ---
 
