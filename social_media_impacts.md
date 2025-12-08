@@ -30,9 +30,9 @@ Some of the key drawbacks of social media:
 
 ---
 
-## Technical fixes to Social Media's drawbacks
+## Why technical fixes to Social Media's drawbacks won't work
 
-The above issues have been known about for some time, and it has always been technically possible to fix these issues.
+The above Social Media drawbacks have been known about for some time, and it has always been technically possible to fix these issues.
 
 However, Social Media companies have repeatedly chosen not to fix these issues.
 This may be because they are incentivised not to fix them, since the Attention Economy ensures that the companies will receive more money if users are more enraged and spend more time on their platforms.
