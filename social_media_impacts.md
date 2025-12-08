@@ -6,6 +6,9 @@ subtitle: Social media impacts on society
 
 A short summary of some of the key benefits and drawbacks that Social Media has on society.
 
+Note that the effects of Social Media on society can vary widely from platform to platform.
+Certain platforms might provide a net benefit to society (e.g. some might say YouTube), while others might provide a net negative effect on society (e.g. some might say Twitter/X).
+
 ---
 
 ## Benefits
