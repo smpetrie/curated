@@ -33,7 +33,7 @@ Some of the key drawbacks of social media:
 
 ---
 
-## Why technical fixes to Social Media's drawbacks won't work
+## Why technical fixes to Social Media's drawbacks don't work
 
 The above Social Media drawbacks have been known about for some time, and it has always been technically possible to fix these issues.
 
