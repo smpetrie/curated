@@ -22,8 +22,8 @@ author: Steve Petrie
 navbar-links:
   About: "about"
   Values:
-    - Overview: "values_overview.md"
-    - Social Media Impact on Society: "social_media_impacts.md"
+    - Overview: "values_overview"
+    - Social Media Impact on Society: "social_media_impacts"
   Piano:
     - Learn Piano: "learnpiano"
     - How Music Works: "howmusicworks"
