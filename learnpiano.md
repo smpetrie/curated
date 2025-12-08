@@ -30,3 +30,11 @@ Note that I don't receive any benefits or kickbacks from the below Channels --- 
 [Beginner tutorial for piano](https://youtu.be/a_kVafB-0C4)
 
 A beginner tutorial for piano or keyboard.
+
+---
+
+## Learn Piano with Jazer Lee
+
+[The Biggest Lie You’ve Been Told About Learning Piano as an Adult](The Biggest Lie You’ve Been Told About Learning Piano as an Adult)
+
+Why adults have certain advantages when it comes to learning piano (or any musical instrument).
