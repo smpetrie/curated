@@ -18,10 +18,14 @@ Topics include:
 
 ---
 
-### Why a short, curated list rather than a feed?
+### Why short, curated lists, rather than Social Media posts?
 
 Hopefully the curated lists on this website will present you with a useful idea or two.
 
-But why did I create my own website rather than using social media?
-Sure, this website won't include up-to-date thoughts and current events in the way a social media feed would.
-But I'm hoping that's actually a feature, not a bug --- less algorithmic noise, less recency bias, more focus on ideas that persist through time.
+But why did I create my own website rather than using social media? A few reasons come to mind:
+
+- No ads.
+- Not up-to-date: This one sounds like a bug, but some people might find it to be more of a feature --- i.e. hopefully there is less algorithmic noise, less recency bias, and more focus on ideas that persist through time.
+- It's been fun to make. If you want to make your own website like this, I made it using [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme).
+
+Struthless was also influential in my decision to create the website, particularly his thought-provoking and inspirational video on [creating things](https://www.youtube.com/watch?v=2n8W6CBxc64).
