@@ -4,9 +4,9 @@ title: AI Explainer
 subtitle: bla...
 ---
 
-AI impacts:
+A short explainer on AI and its key potential dangers.
 
-### Narrow vs. General AI {#narrow-vs-general-ai}
+### Narrow AI vs. General AI {#narrow-vs-general-ai}
 
 It is important to distinguish between different types of AI...
 
