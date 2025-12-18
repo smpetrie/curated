@@ -6,12 +6,9 @@ subtitle: bla...
 
 AI impacts:
 
-### Which AI is which?
+### Impacts of Narrow vs. General AI
 
-It is important to distinguish between different types of AI...
-
-- Narrow AI (e.g. AlphaFold)
-- General AI (e.g. AI ChatBots like ChatGPT)
+See [here](ai_explainer/#narrow-vs-general-ai) for an explanaition of the difference between Narrow AI and General AI.
 
 ---
 
