@@ -8,7 +8,7 @@ AI impacts:
 
 ### Impacts of Narrow vs. General AI
 
-See [here](https://github.com/smpetrie/curated/ai_explainer/#narrow-vs-general-ai) for an explanation of the difference between Narrow AI and General AI.
+See [here](https://smpetrie.github.io/curated/ai_explainer/#narrow-vs-general-ai) for an explanation of the difference between Narrow AI and General AI.
 
 ---
 
