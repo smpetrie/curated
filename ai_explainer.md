@@ -12,7 +12,7 @@ It is important to distinguish between different types of AI...
 
 - **Narrow AI:** AI that can only perform specific tasks (e.g. AlphaGo, AlphaFold),
 - **General AI:** AI that can perform many different tasks in many different domains (e.g. AI ChatBots like ChatGPT, Claude, Gemini, etc...).
-- **Artificial General Intelligence (AGI):** A form of general AI that can perform any cognitive task a human can perform, either as well or better than a human can perform them.
+- **Artificial General Intelligence (AGI):** A form of general AI that can perform any cognitive task a human can perform, as well or better than a human can perform them.
 - **Artificial Super Intelligence (ASI):** Like AGI, but can absolutely destroy humans at any task.
 
 ### Narrow AI systems are much safer than General AI systems
