@@ -23,6 +23,7 @@ navbar-links:
   About: "about"
   Values:
     - Overview: "values_overview"
+    - Game Theory and Trust: "game_theory_and_trust"
     - Social Media Impact on Society: "social_media_impacts"
   Piano:
     - Learn Piano: "learnpiano"
