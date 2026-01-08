@@ -12,11 +12,11 @@ These *Values* pages includes attempts to understand:
 
 ---
 
-### Definitions: what do we mean by value?
+### Definitions: what do we mean by "values"?
 
 The word "values" means different things to different people, so it's helpful to specify what the different meanings of "values" are that we will talk about. Here are threee different possible meanings of human "values":
 
-1. What things do I want to have spent the most time doing across my life.
+1. What things do I want to have spent the most time doing across my life?
 1. Behaviours: Some people behave/act in certain ways (honourable, dependable, honest, etc...) because they value those behaviour and ways of being.
 1. Needs: Humans have core needs such as food, shelter, etc... (If you look into M....'s heirarchy of values, I believe he also specifies higher level needs such as Esteem, Empathy, etc...)
 
