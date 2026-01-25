@@ -46,6 +46,19 @@ See (here)[https://aistatement.com/] for the full list of signatories, but it in
 - Sam Altman (CEO of OpenAI, makers of ChatGPT),
 - Dario Amodei (CEO of Anthropic, makers of Claude AI).
 
+---
+
+### Striving for technorealism, rather than technophobia or technooptimism
+
+Is this fear of the potential impacts of AGI simply a case of technophobia? Or ludditism?
+
+Consider that the CEOs of Big AI companies are neither luddites, nor technophobes - in fact they are usually technooptimists. Yet many of them have acknowledged the immense dangers posed by AGI.
+
+Ideally I think we should strive to be technorealists, rather than being technophobic or technooptimistic.
+We should strive to understand the societal impacts of AI, whether good or bad, and not be afraid to point out when the impacts are likely to be net negative.
+We should strive to predict the likely future impacts of AI and AGI as accurately as possible, while trying to avoid our own personal biases as much as possible.
+
+
 [Should I mention research on getting estimates of p-doom from computer scientists....?]
 
 ---
