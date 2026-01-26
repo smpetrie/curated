@@ -26,7 +26,7 @@ AlphaFold is a Narrow AI that has effectively solved protein folding for biologi
 
 ---
 
-### Despite the risks, Big Tech is currently racing to create General AI systems
+### Despite the risks, Big AI is currently racing to create General AI systems
 
 Many Big Tech companies have stated goals to create Artificial General Intelligence (AGI), and some have stated goals to create Artificial Super Intelligence (ASI). 
 This is despite that fact that the CEOs of many of these companies believe that General AIs could become so dangerous that they could represent an existential risk to humanity.
