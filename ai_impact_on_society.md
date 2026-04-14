@@ -52,6 +52,16 @@ See [here](https://smpetrie.github.io/curated/ai_explainer/#narrow-vs-general-ai
 
 ---
 
+#### A question for the CEOs of the AI companies
+
+- I recognise the entrepeneurial and exploratory spirit of the AI companies
+- However, there have never been companies that have sought to change society so rapidly
+- The AI companies are not seeking the permission of people of society to make these massive societal changes - they are just doing it anyway
+- The rapid changes have the potential to be very damaging to society (e.g. mass, unprecedented job losses, or even potential existential risk)
+- [Maybe have this as its own page if it gets too long]
+
+---
+
 ### Why a short, curated list rather than a feed?
 
 Sure, a short, curated list won't include up-to-date thoughts and current events in the way a social media feed would.
